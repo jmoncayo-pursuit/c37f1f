@@ -70,11 +70,9 @@ To add a new data source to the prefill modal, update `src/components/PrefillMod
 
 ---
 
-## Linting & Formatting
-
-- Lint: `npm run lint`
-- Format: Use Prettier or your preferred formatter
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ---
 
 ## Contact
